@@ -1,6 +1,3 @@
 name: Nicolas Yan
 markdown: kramdown
 permalink: /writing/:year/:month/:day/:title
-remote_theme: benbalter/retlab
-
-theme: jekyll-theme-minimal
