@@ -1,4 +1,6 @@
 name: Nicolas Yan
 markdown: kramdown
 permalink: /writing/:year/:month/:day/:title
+plugins:
+  - jekyll-remote-theme
 remote_theme: heiswayi/the-plain
