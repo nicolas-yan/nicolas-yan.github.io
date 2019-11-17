@@ -20,8 +20,9 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family: 'Montserrat', sans-serif;
+    font-size: 74px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
 }
 p {
     font-family: 'Roboto', sans-serif;
