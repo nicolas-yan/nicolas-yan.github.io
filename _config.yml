@@ -1,3 +1,14 @@
 name: Nicolas Yan
+title: Nicolas Yan
+author: Nicolas Yan
+email: nicolasyan1997@gmail.com
 markdown: kramdown
 permalink: /writing/:year/:month/:day/:title
+
+minima: 
+  social_links:
+    twitter: nicolasyan1997
+    facebook: nicolasyan1997
+    instagram: notnicolasyan
+
+theme: minima
