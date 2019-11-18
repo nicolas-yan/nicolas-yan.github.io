@@ -4,7 +4,7 @@ title: "Automated Inequality"
 date: 2016-10-02
 ---
 
-I wrote this article for the Fall 2016 edition of the *Harvard Political Review*. Please click [here](https://harvardpolitics.com/world/automation/) for a link to the original article.
+I wrote this piece for the Fall 2016 edition of the *Harvard Political Review*. Please click [here](https://harvardpolitics.com/world/automation/) for a link to the original article.
 
 ---
 
