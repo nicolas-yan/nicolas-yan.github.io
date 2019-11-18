@@ -52,10 +52,15 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    line-height: 1.1;
     color: #333;
 }
 
 ul.posts li {
     list-style: none;
     font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    line-height: 1.1;
+    color: #333;
 }
