@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reading MLK in New Zealand (The Atlantic)"
+title: "Reading MLK in New Zealand"
 date: 2015-09-01
 ---
 
