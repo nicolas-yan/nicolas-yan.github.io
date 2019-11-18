@@ -53,8 +53,8 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-family: 'Roboto', sans-serif;
-    font-size: 1.2em;
-    line-height: 1.4em;
+    font-size: 15px;
+    line-height: 20px;
     color: #333;
 }
 
