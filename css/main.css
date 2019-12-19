@@ -68,3 +68,10 @@ ul.posts li {
     line-height: 1.3;
     color: #333;
 }
+
+img {
+    border: 0px;
+    padding: 2px;
+    height: 50px;
+    width: 100%;
+}
