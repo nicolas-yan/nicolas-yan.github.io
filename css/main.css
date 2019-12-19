@@ -71,6 +71,6 @@ ul.posts li {
 
 img {
     border: 0px;
-    padding: 2px;
+    float: right;
     height: 200px;
 }
